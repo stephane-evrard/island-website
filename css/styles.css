@@ -8,7 +8,7 @@ section{
     margin: 15px;
     border-radius: 10px;
     box-shadow: 0 5px 10px black;
-    background:lightgray;
+    background:rgba(247, 246, 244, 0.918);
 }
 section article{
     color: rgb(15, 15, 15);
@@ -17,7 +17,7 @@ section article{
     margin: 15px;
     border-radius: 10px;
     box-shadow: 0 5px 10px black;
-    background:tan;
+  
 }
 div{
     padding: 15px;
@@ -42,11 +42,11 @@ figure img{
     border-radius: 10px;
 }
   h1 {
-    color: blue;
+    color:red;
     text-align: center;
   }
   h2 {
-    color: rgb(126, 128, 0);
+    color: rgb(4, 6, 75);
     font-family: Georgia;
   }
   p {
